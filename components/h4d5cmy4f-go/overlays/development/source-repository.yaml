@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: h4d5cmy4f-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/h4d5cmy4f-go
